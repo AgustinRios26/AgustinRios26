@@ -1,4 +1,4 @@
-# Hola!:wave:
+# Hi!:wave:
 
 I'm Agustin Rios <br>
 I'm studying Web Development and Digital Applications <br>
