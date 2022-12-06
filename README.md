@@ -10,7 +10,7 @@ I am developing projects using NodeJS and ReactJS
 <p>ITCrowd Challenge <i>(Challenge for ITCrowd, Frontend and Backend)</i>: <a href="https://itcrowdchallenge-ar.vercel.app/">Page ITCrowdChallenge </a> - Repository: <a href="https://github.com/AgustinRios26/ITCrowdChallenge">Repository JobSearch</a> </p>
 <p>Pagina de pedidos <i> (Frontend and Backend): </i> <a href="https://pagina-de-pedidos.vercel.app">Pagina de Pedidos</a> - Repository: <a href="https://github.com/AgustinRios26/pagina-de-pedidos">Repository Pagina de pedidos</a> </p>
 <p>Bienes Raices - Inmobiliaria <i> (Backend Nodejs + Sequelize, Frontend pug) </i> - Repository: <a href="https://github.com/AgustinRios26/BienesRaices">Repository Bienes Raices</a> </p>  
-<p>Pokedex <i>(Frontend, using pokeapi)</i>: <a href="https://github.com/AgustinRios26/Pokedex">Pokedex</a> </p>
+<p>Pokedex <i>(Frontend, using pokeapi)</i>:  <a href="https://sprightly-raindrop-1d7eea.netlify.app">Pokedex</a> - Repository: <a href="https://github.com/AgustinRios26/Pokedex">Repository Pokedex</a> </p> 
 <p>Python - Face Recognition: <a href="https://github.com/AgustinRios26/Python">Python</a> </p>
 <p>Django CRUD: <a href="https://github.com/AgustinRios26/DjangoCRUD">Django CRUD </a> </p>
 
